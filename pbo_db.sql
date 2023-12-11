@@ -40,12 +40,12 @@ CREATE TABLE `book` (
 --
 
 INSERT INTO `book` (`bookTitle`, `author`, `bookType`, `image`, `date`) VALUES
-('Black And Grey Romance', 'Thumbnail_01', 'romance', 'D:\\KULIAH\\PBO\\PROYEK Marcoman\\Proyek Library\\src\\image\\Black And Grey Romance Novel Book Cover.jpg', '2018-10-16'),
-('Black White Yellow Cool', 'Thumbnail_02', 'Non-fiction', 'D:\\KULIAH\\PBO\\PROYEK Marcoman\\Proyek Library\\src\\image\\Black White Yellow Cool Business Suit Photo Book Cover.jpg', '2018-10-16'),
-('Black and White', 'Thumbnail_03', 'Non-fiction', 'D:\\KULIAH\\PBO\\PROYEK Marcoman\\Proyek Library\\src\\image\\Black and White Photo Rustic Text Horror Thriller Book Cover.jpg', '2021-05-29'),
-('Blue Simple Food', 'Thumbnail_04', 'Non-fiction', 'D:\\KULIAH\\PBO\\PROYEK Marcoman\\Proyek Library\\src\\image\\Blue Simple Food Book Cover.jpg', '2021-08-10'),
-('Brown Black Rusty', 'Thumbnail_05', 'Fiction', 'D:\\KULIAH\\PBO\\PROYEK Marcoman\\Proyek Library\\src\\image\\Brown Black Rusty Fantasy Novel Book Cover.jpg', '2020-07-15'),
-('Green and Grey Modern', 'Thumbnail_06', 'Fiction', 'D:\\KULIAH\\PBO\\PROYEK Marcoman\\Proyek Library\\src\\image\\Green and Grey Modern Magic Kingdom Book Cover.jpg', '2019-09-11');
+('Black And Grey Romance', 'Thumbnail_01', 'romance', 'D:\\KULIAH\\PBO\\PROYEK PBO\\Proyek Library\\src\\image\\Black And Grey Romance Novel Book Cover.jpg', '2018-10-16'),
+('Black White Yellow Cool', 'Thumbnail_02', 'Non-fiction', 'D:\\KULIAH\\PBO\\PROYEK PBO\\Proyek Library\\src\\image\\Black White Yellow Cool Business Suit Photo Book Cover.jpg', '2018-10-16'),
+('Black and White', 'Thumbnail_03', 'Non-fiction', 'D:\\KULIAH\\PBO\\PROYEK PBO\\Proyek Library\\src\\image\\Black and White Photo Rustic Text Horror Thriller Book Cover.jpg', '2021-05-29'),
+('Blue Simple Food', 'Thumbnail_04', 'Non-fiction', 'D:\\KULIAH\\PBO\\PROYEK PBO\\Proyek Library\\src\\image\\Blue Simple Food Book Cover.jpg', '2021-08-10'),
+('Brown Black Rusty', 'Thumbnail_05', 'Fiction', 'D:\\KULIAH\\PBO\\PROYEK PBO\\Proyek Library\\src\\image\\Brown Black Rusty Fantasy Novel Book Cover.jpg', '2020-07-15'),
+('Green and Grey Modern', 'Thumbnail_06', 'Fiction', 'D:\\KULIAH\\PBO\\PROYEK PBO\\Proyek Library\\src\\image\\Green and Grey Modern Magic Kingdom Book Cover.jpg', '2019-09-11');
 
 -- --------------------------------------------------------
 
