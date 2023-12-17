@@ -49,7 +49,7 @@
       </Text>
       <ImageView fitHeight="130.0" fitWidth="121.0" layoutX="82.0" layoutY="184.0" pickOnBounds="true" preserveRatio="true">
          <image>
-            <Image url="@../../../Image/open-book_2702154.png" />
+            <Image url="@../image/logo.png" />
          </image>
       </ImageView>
    </children>
